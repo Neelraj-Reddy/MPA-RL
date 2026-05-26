@@ -1,0 +1,2521 @@
+================================================================================
+FISHING FLEET DEPLOYMENT LOG
+================================================================================
+Deployment Start Time: 0:00:00
+Configuration: {'env_width': 100, 'env_height': 100, 'hours_per_tick': 1, 'initial_fish': 2500, 'num_ports': 5, 'deployment_steps': 8760, 'controller_mode': 'heuristic'}
+================================================================================
+
+
+================================================================================
+STEP 0 / 🕐 0 hours (0.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2500
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 0.0t
+   ⛽ Avg Fleet Fuel: 11986L / 12000L
+   📦 Avg Fleet Cargo: 23.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (36.5, 68.2)       236°     YES   11975L     24.4t      0     
+   1     0      (27.1, 20.4)       21°      YES   11976L     18.7t      0     
+   2     0      (72.8, 52.6)       111°     YES   11976L     0.0t       0     
+   3     1      (50.8, 14.0)       135°     YES   12000L     0.0t       0     
+   4     1      (61.8, 83.2)       337°     YES   12000L     0.0t       0     
+   5     1      (36.1, 69.0)       348°     YES   11984L     152.3t     0     
+   6     2      (26.0, 18.6)       342°     YES   12000L     0.0t       0     
+   7     2      (75.3, 51.6)       315°     YES   12000L     127.0t     0     
+   8     2      (54.0, 11.7)       327°     YES   11961L     0.0t       0     
+   9     3      (61.8, 82.4)       27°      YES   12000L     0.0t       0     
+   10    3      (33.6, 70.9)       200°     YES   11973L     17.0t      0     
+   11    3      (26.0, 16.4)       251°     YES   11983L     0.0t       0     
+   12    4      (75.6, 49.6)       269°     YES   11978L     0.0t       0     
+   13    4      (51.6, 12.2)       219°     YES   12000L     18.5t      0     
+   14    4      (60.5, 84.4)       14°      YES   11989L     0.0t       0     
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 15/15
+   Boats Out of Fuel: 0
+   Boats at Port: 6
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.9°C
+   Min/Max Temp: 9.8°C / 26.5°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 0.0t total (0 trips, avg 0.00t/boat)
+   Model 1: 0.0t total (0 trips, avg 0.00t/boat)
+   Model 2: 0.0t total (0 trips, avg 0.00t/boat)
+   Model 3: 0.0t total (0 trips, avg 0.00t/boat)
+   Model 4: 0.0t total (0 trips, avg 0.00t/boat)
+================================================================================
+
+================================================================================
+STEP 175 / 🕐 175 hours (7.3 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2542
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 31812.8t
+   ⛽ Avg Fleet Fuel: 11182L / 12000L
+   📦 Avg Fleet Cargo: 227.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (58.3, 93.9)       84°      YES   11504L     51.1t      4     
+   1     0      (41.5, 32.6)       16°      YES   11256L     75.5t      2     
+   2     0      (75.3, 47.9)       0°       YES   11458L     279.4t     7     
+   3     1      (47.2, 22.2)       298°     NO    9007L      462.2t     3     
+   4     1      (68.9, 72.6)       129°     NO    10685L     467.2t     6     
+   5     1      (53.7, 83.8)       23°      YES   10847L     275.0t     11    
+   6     2      (30.2, 18.0)       16°      NO    11948L     0.0t       4     
+   7     2      (73.1, 55.3)       101°     YES   11918L     109.3t     7     
+   8     2      (49.1, 22.9)       133°     YES   11832L     130.0t     5     
+   9     3      (62.9, 82.0)       158°     NO    11338L     500.0t     13    
+   10    3      (70.3, 91.7)       16°      YES   10689L     441.7t     2     
+   11    3      (33.3, 39.3)       183°     YES   11093L     79.2t      3     
+   12    4      (79.6, 64.6)       309°     YES   11564L     91.4t      2     
+   13    4      (55.4, 12.0)       355°     YES   11939L     0.0t       2     
+   14    4      (59.0, 84.0)       66°      NO    10647L     456.2t     6     
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 10/15
+   Boats Out of Fuel: 0
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.3°C
+   Min/Max Temp: 9.8°C / 27.0°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 5072.4t total (13 trips, avg 1690.81t/boat)
+   Model 1: 8000.0t total (20 trips, avg 2666.66t/boat)
+   Model 2: 6757.3t total (16 trips, avg 2252.44t/boat)
+   Model 3: 8073.4t total (18 trips, avg 2691.14t/boat)
+   Model 4: 3909.6t total (10 trips, avg 1303.20t/boat)
+================================================================================
+
+================================================================================
+STEP 350 / 🕐 350 hours (14.6 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2540
+   🎣 Tonnes Caught This Step: 459.52t
+   📈 Total Catch So Far: 54287.7t
+   ⛽ Avg Fleet Fuel: 10462L / 12000L
+   📦 Avg Fleet Cargo: 309.0t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (37.0, 70.5)       178°     NO    12000L     0.0t       7     
+   1     0      (24.4, 16.7)       43°      NO    5889L      500.0t     3     
+   2     0      (89.5, 52.2)       11°      YES   11525L     301.9t     12    
+   3     1      (49.8, 19.5)       289°     NO    9525L      450.7t     6     
+   4     1      (66.0, 70.8)       42°      YES   10296L     428.7t     12    
+   5     1      (51.7, 73.6)       141°     NO    11270L     487.5t     17    
+   6     2      (22.2, 27.2)       106°     YES   11788L     0.0t       7     
+   7     2      (79.7, 49.5)       157°     YES   10008L     376.9t     12    
+   8     2      (75.6, 7.9)        188°     YES   10600L     161.9t     9     
+   9     3      (65.4, 79.2)       275°     NO    11748L     500.0t     21    
+   10    3      (65.5, 69.5)       178°     NO    8339L      458.3t     4     
+   11    3      (31.8, 48.6)       112°     YES   10902L     147.0t     4     
+   12    4      (45.7, 55.1)       213°     YES   10357L     446.8t     4     
+   13    4      (59.6, 19.5)       114°     YES   11733L     57.8t      4     
+   14    4      (85.6, 93.3)       64°      YES   10950L     317.2t     11    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 9/15
+   Boats Out of Fuel: 0
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.2°C
+   Min/Max Temp: 7.7°C / 26.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 9035.1t total (22 trips, avg 3011.69t/boat)
+   Model 1: 13722.3t total (35 trips, avg 4574.10t/boat)
+   Model 2: 11791.0t total (28 trips, avg 3930.34t/boat)
+   Model 3: 12711.2t total (29 trips, avg 4237.06t/boat)
+   Model 4: 7028.2t total (19 trips, avg 2342.72t/boat)
+================================================================================
+
+================================================================================
+STEP 525 / 🕐 525 hours (21.9 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2599
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 76629.2t
+   ⛽ Avg Fleet Fuel: 10647L / 12000L
+   📦 Avg Fleet Cargo: 175.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (39.1, 72.9)       216°     NO    5752L      480.7t     8     
+   1     0      (29.5, 16.3)       300°     NO    11952L     0.0t       6     
+   2     0      (79.2, 49.4)       199°     YES   11566L     81.7t      17    
+   3     1      (52.8, 21.8)       265°     NO    8713L      500.0t     9     
+   4     1      (72.8, 92.8)       2°       YES   11687L     87.0t      15    
+   5     1      (43.2, 67.7)       321°     YES   11855L     0.0t       22    
+   6     2      (18.4, 25.6)       164°     YES   11752L     0.0t       10    
+   7     2      (78.0, 53.1)       196°     YES   11210L     165.2t     18    
+   8     2      (48.7, 26.0)       167°     YES   11489L     142.2t     12    
+   9     3      (56.6, 94.5)       146°     YES   11091L     337.9t     30    
+   10    3      (36.4, 70.1)       270°     YES   12000L     0.0t       7     
+   11    3      (26.6, 20.0)       60°      NO    11981L     0.0t       6     
+   12    4      (76.4, 29.6)       239°     YES   10334L     262.9t     6     
+   13    4      (35.7, 36.4)       262°     YES   11179L     104.6t     6     
+   14    4      (61.1, 77.8)       95°      NO    7137L      472.2t     12    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 10/15
+   Boats Out of Fuel: 0
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.1°C
+   Min/Max Temp: 10.0°C / 27.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 13467.4t total (31 trips, avg 4489.14t/boat)
+   Model 1: 18951.4t total (46 trips, avg 6317.12t/boat)
+   Model 2: 16740.1t total (40 trips, avg 5580.02t/boat)
+   Model 3: 18102.8t total (43 trips, avg 6034.27t/boat)
+   Model 4: 9367.6t total (24 trips, avg 3122.52t/boat)
+================================================================================
+
+================================================================================
+STEP 700 / 🕐 700 hours (29.2 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2669
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 97422.0t
+   ⛽ Avg Fleet Fuel: 10755L / 12000L
+   📦 Avg Fleet Cargo: 227.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (63.3, 83.8)       206°     NO    9632L      461.0t     11    
+   1     0      (49.3, 43.3)       331°     NO    5737L      454.6t     6     
+   2     0      (83.2, 50.0)       328°     YES   11834L     109.5t     24    
+   3     1      (47.9, 29.1)       3°       NO    10486L     470.8t     13    
+   4     1      (64.1, 89.5)       165°     YES   11861L     8.3t       19    
+   5     1      (40.7, 79.7)       57°      YES   11768L     84.0t      26    
+   6     2      (23.4, 23.3)       146°     YES   11869L     57.4t      13    
+   7     2      (85.8, 51.2)       177°     NO    10638L     483.7t     23    
+   8     2      (61.0, 23.0)       227°     NO    9934L      479.8t     15    
+   9     3      (63.7, 80.1)       137°     NO    10033L     500.0t     37    
+   10    3      (40.5, 82.3)       44°      YES   11561L     105.2t     9     
+   11    3      (41.9, 24.1)       73°      YES   11246L     0.0t       7     
+   12    4      (71.5, 61.6)       39°      YES   11753L     88.4t      10    
+   13    4      (27.5, 24.6)       296°     YES   11275L     75.0t      7     
+   14    4      (63.2, 78.7)       52°      YES   11697L     29.1t      16    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 9/15
+   Boats Out of Fuel: 0
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 18.1°C
+   Min/Max Temp: 11.7°C / 26.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 17157.1t total (41 trips, avg 5719.04t/boat)
+   Model 1: 23762.0t total (58 trips, avg 7920.66t/boat)
+   Model 2: 21714.2t total (51 trips, avg 7238.06t/boat)
+   Model 3: 22120.9t total (53 trips, avg 7373.62t/boat)
+   Model 4: 12667.9t total (33 trips, avg 4222.64t/boat)
+================================================================================
+
+================================================================================
+STEP 875 / 🕐 875 hours (36.5 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2725
+   🎣 Tonnes Caught This Step: 1000.00t
+   📈 Total Catch So Far: 116120.5t
+   ⛽ Avg Fleet Fuel: 10571L / 12000L
+   📦 Avg Fleet Cargo: 191.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (63.8, 68.0)       35°      YES   10892L     170.8t     13    
+   1     0      (0.0, 0.0)         215°     NO    8745L      183.8t     8     
+   2     0      (75.6, 52.7)       223°     NO    12000L     0.0t       31    
+   3     1      (57.7, 23.8)       52°      YES   11387L     118.4t     16    
+   4     1      (81.2, 89.2)       255°     YES   6157L      394.7t     19    
+   5     1      (31.0, 74.7)       140°     YES   11794L     23.0t      30    
+   6     2      (25.0, 28.8)       102°     YES   10567L     445.0t     15    
+   7     2      (74.3, 53.0)       283°     NO    12000L     0.0t       29    
+   8     2      (54.9, 11.1)       334°     YES   11869L     0.0t       19    
+   9     3      (69.9, 76.7)       78°      NO    11288L     500.0t     44    
+   10    3      (26.8, 78.6)       58°      YES   11263L     113.5t     10    
+   11    3      (18.5, 25.1)       259°     YES   10977L     168.2t     9     
+   12    4      (50.4, 60.3)       238°     YES   11286L     66.0t      13    
+   13    4      (52.8, 32.4)       260°     YES   10406L     219.1t     8     
+   14    4      (66.7, 48.4)       100°     NO    7937L      471.8t     17    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 10/15
+   Boats Out of Fuel: 0
+   Boats at Port: 2
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 18.4°C
+   Min/Max Temp: 10.5°C / 28.1°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 21257.4t total (52 trips, avg 7085.81t/boat)
+   Model 1: 27104.6t total (65 trips, avg 9034.86t/boat)
+   Model 2: 27432.2t total (63 trips, avg 9144.07t/boat)
+   Model 3: 25789.7t total (63 trips, avg 8596.55t/boat)
+   Model 4: 14536.6t total (38 trips, avg 4845.53t/boat)
+================================================================================
+
+================================================================================
+STEP 1,050 / 🕐 1050 hours (43.8 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2743
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 133380.1t
+   ⛽ Avg Fleet Fuel: 9460L / 12000L
+   📦 Avg Fleet Cargo: 297.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (65.5, 98.1)       26°      NO    7924L      419.8t     14    
+   1     0      (0.0, 0.0)         215°     NO    2627L      183.8t     8     
+   2     0      (72.4, 50.4)       214°     YES   11961L     0.0t       41    
+   3     1      (59.4, 26.4)       241°     NO    9693L      500.0t     19    
+   4     1      (66.1, 99.9)       74°      NO    11512L     101.7t     21    
+   5     1      (39.8, 78.8)       40°      YES   11524L     399.1t     34    
+   6     2      (40.5, 38.7)       19°      YES   11119L     276.8t     18    
+   7     2      (87.5, 61.7)       4°       NO    11595L     500.0t     36    
+   8     2      (63.2, 21.8)       63°      YES   11657L     91.0t      22    
+   9     3      (63.0, 81.1)       144°     NO    10450L     461.1t     49    
+   10    3      (38.2, 71.9)       1°       YES   11621L     97.0t      11    
+   11    3      (0.0, 0.0)         215°     NO    3104L      426.9t     9     
+   12    4      (73.1, 79.0)       8°       YES   10637L     263.0t     14    
+   13    4      (60.2, 57.6)       79°      NO    10281L     277.8t     9     
+   14    4      (34.7, 91.6)       341°     NO    6195L      466.4t     18    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 0
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.9°C
+   Min/Max Temp: 10.8°C / 28.1°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 24638.9t total (63 trips, avg 8212.95t/boat)
+   Model 1: 31429.0t total (74 trips, avg 10476.33t/boat)
+   Model 2: 32698.7t total (76 trips, avg 10899.56t/boat)
+   Model 3: 28698.3t total (69 trips, avg 9566.08t/boat)
+   Model 4: 15915.3t total (41 trips, avg 5305.09t/boat)
+================================================================================
+
+================================================================================
+STEP 1,225 / 🕐 1225 hours (51.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2699
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 154294.5t
+   ⛽ Avg Fleet Fuel: 9354L / 12000L
+   📦 Avg Fleet Cargo: 226.4t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (33.0, 82.9)       37°      YES   11748L     40.3t      16    
+   1     0      (0.0, 0.0)         215°     NO    8487L      166.3t     9     
+   2     0      (72.8, 56.6)       153°     YES   11841L     308.3t     48    
+   3     1      (40.7, 20.2)       189°     NO    11816L     0.0t       23    
+   4     1      (66.1, 95.9)       150°     YES   4836L      367.6t     21    
+   5     1      (34.8, 80.7)       40°      YES   11728L     500.0t     43    
+   6     2      (0.0, 0.0)         215°     NO    8507L      257.9t     20    
+   7     2      (76.5, 58.0)       117°     YES   11865L     0.0t       44    
+   8     2      (51.4, 13.5)       233°     NO    12000L     0.0t       26    
+   9     3      (57.8, 91.8)       231°     YES   11635L     93.7t      56    
+   10    3      (71.2, 99.6)       345°     YES   9118L      333.7t     13    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (94.6, 73.9)       210°     YES   9096L      424.7t     15    
+   13    4      (59.9, 21.5)       68°      YES   11799L     0.0t       11    
+   14    4      (56.1, 84.1)       345°     NO    5830L      476.8t     19    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 9/15
+   Boats Out of Fuel: 1
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.9°C
+   Min/Max Temp: 10.8°C / 28.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 28864.0t total (73 trips, avg 9621.35t/boat)
+   Model 1: 36576.7t total (87 trips, avg 12192.22t/boat)
+   Model 2: 39260.2t total (90 trips, avg 13086.72t/boat)
+   Model 3: 31930.1t total (78 trips, avg 10643.37t/boat)
+   Model 4: 17663.5t total (45 trips, avg 5887.83t/boat)
+================================================================================
+
+================================================================================
+STEP 1,400 / 🕐 1400 hours (58.3 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2629
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 170649.2t
+   ⛽ Avg Fleet Fuel: 9014L / 12000L
+   📦 Avg Fleet Cargo: 242.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (22.4, 99.9)       83°      YES   10634L     256.9t     17    
+   1     0      (0.0, 0.0)         215°     NO    2942L      166.3t     9     
+   2     0      (74.4, 46.2)       34°      NO    11462L     500.0t     55    
+   3     1      (53.2, 31.7)       216°     NO    9965L      492.9t     25    
+   4     1      (83.0, 96.1)       319°     YES   9229L      300.4t     23    
+   5     1      (38.1, 72.4)       219°     NO    10292L     459.4t     52    
+   6     2      (7.1, 8.0)         29°      NO    1405L      257.9t     20    
+   7     2      (74.2, 51.2)       134°     YES   12000L     0.0t       51    
+   8     2      (55.6, 20.7)       69°      YES   11791L     0.0t       28    
+   9     3      (61.7, 81.5)       228°     YES   11107L     401.3t     60    
+   10    3      (68.4, 99.9)       72°      NO    10269L     92.7t      15    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (48.2, 41.0)       350°     YES   10286L     197.5t     18    
+   13    4      (63.1, 88.0)       87°      YES   11932L     51.9t      13    
+   14    4      (62.2, 90.2)       123°     YES   11898L     39.0t      23    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 8/15
+   Boats Out of Fuel: 1
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.3°C
+   Min/Max Temp: 10.3°C / 28.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 32021.7t total (81 trips, avg 10673.89t/boat)
+   Model 1: 41014.3t total (100 trips, avg 13671.45t/boat)
+   Model 2: 43038.5t total (99 trips, avg 14346.18t/boat)
+   Model 3: 34338.3t total (84 trips, avg 11446.11t/boat)
+   Model 4: 20236.3t total (54 trips, avg 6745.43t/boat)
+================================================================================
+
+================================================================================
+STEP 1,575 / 🕐 1575 hours (65.6 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2552
+   🎣 Tonnes Caught This Step: 500.00t
+   📈 Total Catch So Far: 188999.9t
+   ⛽ Avg Fleet Fuel: 9755L / 12000L
+   📦 Avg Fleet Cargo: 253.0t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (50.5, 78.6)       74°      YES   11774L     27.7t      18    
+   1     0      (0.0, 0.0)         215°     NO    9006L      161.3t     10    
+   2     0      (59.7, 48.0)       156°     NO    11441L     457.0t     61    
+   3     1      (56.5, 21.4)       140°     YES   11705L     93.2t      29    
+   4     1      (18.3, 85.1)       179°     YES   9093L      127.6t     24    
+   5     1      (36.0, 72.0)       265°     NO    12000L     0.0t       60    
+   6     2      (17.4, 20.3)       152°     YES   10487L     378.1t     24    
+   7     2      (65.1, 33.3)       243°     NO    10521L     327.1t     57    
+   8     2      (48.2, 32.7)       334°     YES   11080L     277.4t     30    
+   9     3      (61.7, 89.3)       66°      YES   11610L     339.6t     67    
+   10    3      (22.6, 94.7)       97°      YES   10786L     384.3t     16    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (70.8, 17.4)       323°     YES   10455L     175.0t     19    
+   13    4      (75.7, 97.6)       292°     YES   5633L      283.5t     13    
+   14    4      (68.5, 92.4)       164°     YES   10732L     336.8t     25    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 10/15
+   Boats Out of Fuel: 1
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.2°C
+   Min/Max Temp: 10.3°C / 25.3°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 35586.3t total (89 trips, avg 11862.10t/boat)
+   Model 1: 46805.5t total (113 trips, avg 15601.82t/boat)
+   Model 2: 48132.7t total (111 trips, avg 16044.24t/boat)
+   Model 3: 37307.4t total (92 trips, avg 12435.79t/boat)
+   Model 4: 21168.0t total (57 trips, avg 7055.99t/boat)
+================================================================================
+
+================================================================================
+STEP 1,750 / 🕐 1750 hours (72.9 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2441
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 203799.2t
+   ⛽ Avg Fleet Fuel: 8295L / 12000L
+   📦 Avg Fleet Cargo: 267.7t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (28.0, 99.9)       105°     NO    8782L      197.2t     20    
+   1     0      (0.0, 0.0)         215°     NO    3816L      161.3t     10    
+   2     0      (76.6, 51.7)       344°     YES   11980L     0.0t       67    
+   3     1      (44.7, 41.0)       267°     YES   10158L     334.1t     31    
+   4     1      (27.8, 74.9)       13°      YES   10618L     106.7t     25    
+   5     1      (35.7, 67.7)       280°     YES   11932L     42.6t      69    
+   6     2      (7.5, 13.2)        199°     YES   10670L     230.8t     28    
+   7     2      (70.9, 53.2)       339°     NO    8448L      481.7t     61    
+   8     2      (59.6, 26.7)       20°      YES   9777L      384.4t     32    
+   9     3      (65.9, 99.9)       22°      YES   10664L     229.7t     72    
+   10    3      (95.4, 82.5)       295°     YES   8589L      417.3t     17    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (82.8, 40.6)       262°     YES   9945L      435.2t     21    
+   13    4      (22.1, 25.1)       242°     NO    0L         345.0t     13    
+   14    4      (22.0, 92.6)       259°     YES   9042L      222.1t     27    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 10/15
+   Boats Out of Fuel: 2
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.7°C
+   Min/Max Temp: 10.6°C / 28.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 38686.6t total (97 trips, avg 12895.53t/boat)
+   Model 1: 50974.8t total (125 trips, avg 16991.62t/boat)
+   Model 2: 52787.8t total (121 trips, avg 17595.94t/boat)
+   Model 3: 39236.9t total (98 trips, avg 13078.98t/boat)
+   Model 4: 22113.0t total (61 trips, avg 7371.02t/boat)
+================================================================================
+
+================================================================================
+STEP 1,925 / 🕐 1925 hours (80.2 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2285
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 219694.5t
+   ⛽ Avg Fleet Fuel: 7723L / 12000L
+   📦 Avg Fleet Cargo: 260.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (24.7, 99.9)       164°     YES   8220L      321.1t     21    
+   1     0      (19.2, 26.2)       220°     NO    10653L     0.0t       11    
+   2     0      (67.3, 27.7)       253°     NO    10583L     268.7t     71    
+   3     1      (59.9, 24.6)       211°     YES   10454L     215.6t     33    
+   4     1      (55.7, 83.0)       359°     NO    2408L      450.1t     25    
+   5     1      (28.4, 68.1)       234°     YES   11196L     417.7t     80    
+   6     2      (36.0, 27.5)       3°       NO    10823L     0.0t       30    
+   7     2      (64.3, 48.8)       226°     YES   11630L     0.0t       68    
+   8     2      (54.2, 33.5)       264°     NO    8274L      466.6t     34    
+   9     3      (53.1, 81.3)       66°      YES   11348L     204.1t     77    
+   10    3      (26.0, 99.9)       135°     YES   3114L      394.0t     18    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (82.9, 71.3)       79°      YES   7388L      289.3t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (52.3, 99.9)       114°     NO    9760L      102.4t     31    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 2
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.7°C
+   Min/Max Temp: 10.7°C / 27.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 41240.9t total (103 trips, avg 13746.97t/boat)
+   Model 1: 56085.9t total (138 trips, avg 18695.30t/boat)
+   Model 2: 57541.6t total (132 trips, avg 19180.55t/boat)
+   Model 3: 41697.4t total (104 trips, avg 13899.12t/boat)
+   Model 4: 23128.7t total (67 trips, avg 7709.56t/boat)
+================================================================================
+
+================================================================================
+STEP 2,100 / 🕐 2100 hours (87.5 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2136
+   🎣 Tonnes Caught This Step: 453.13t
+   📈 Total Catch So Far: 235624.4t
+   ⛽ Avg Fleet Fuel: 8508L / 12000L
+   📦 Avg Fleet Cargo: 180.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (62.2, 72.9)       285°     YES   10890L     182.2t     23    
+   1     0      (32.5, 27.1)       141°     NO    7935L      0.0t       11    
+   2     0      (68.9, 48.1)       213°     NO    11656L     232.4t     76    
+   3     1      (56.5, 31.6)       337°     YES   11198L     81.4t      35    
+   4     1      (22.5, 92.2)       268°     YES   8127L      190.6t     27    
+   5     1      (26.1, 70.6)       140°     YES   11268L     259.0t     94    
+   6     2      (19.6, 26.5)       216°     NO    7990L      0.0t       30    
+   7     2      (83.9, 57.1)       40°      YES   11876L     310.1t     73    
+   8     2      (52.7, 13.1)       306°     YES   12000L     0.0t       37    
+   9     3      (59.5, 83.2)       344°     NO    12000L     0.0t       81    
+   10    3      (25.6, 77.7)       87°      YES   11596L     145.2t     26    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (99.9, 53.1)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (61.3, 99.9)       88°      NO    11081L     84.1t      32    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 3
+   Boats at Port: 2
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.8°C
+   Min/Max Temp: 10.5°C / 28.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 44060.5t total (110 trips, avg 14686.84t/boat)
+   Model 1: 62319.3t total (156 trips, avg 20773.10t/boat)
+   Model 2: 61371.1t total (140 trips, avg 20457.04t/boat)
+   Model 3: 44294.1t total (116 trips, avg 14764.71t/boat)
+   Model 4: 23579.4t total (68 trips, avg 7859.79t/boat)
+================================================================================
+
+================================================================================
+STEP 2,275 / 🕐 2275 hours (94.8 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2065
+   🎣 Tonnes Caught This Step: 500.00t
+   📈 Total Catch So Far: 248738.1t
+   ⛽ Avg Fleet Fuel: 6207L / 12000L
+   📦 Avg Fleet Cargo: 350.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (33.2, 99.9)       95°      NO    10440L     40.9t      25    
+   1     0      (62.4, 48.0)       39°      NO    3865L      140.5t     11    
+   2     0      (68.7, 38.2)       130°     NO    11188L     488.9t     81    
+   3     1      (80.5, 33.0)       35°      NO    10135L     435.9t     36    
+   4     1      (41.2, 75.1)       22°      NO    7539L      464.7t     28    
+   5     1      (32.3, 68.3)       206°     YES   11815L     269.7t     104   
+   6     2      (38.1, 26.0)       212°     NO    684L       489.2t     30    
+   7     2      (76.8, 51.0)       163°     NO    9934L      500.0t     77    
+   8     2      (53.2, 30.6)       351°     YES   8265L      380.5t     38    
+   9     3      (59.9, 83.9)       304°     NO    12000L     0.0t       87    
+   10    3      (30.1, 86.9)       289°     NO    1728L      385.7t     26    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (77.8, 46.3)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (71.3, 99.9)       98°      NO    5520L      446.7t     32    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 2/15
+   Boats Out of Fuel: 3
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 19.0°C
+   Min/Max Temp: 11.2°C / 28.5°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 46644.4t total (117 trips, avg 15548.15t/boat)
+   Model 1: 67502.0t total (168 trips, avg 22500.66t/boat)
+   Model 2: 63809.7t total (145 trips, avg 21269.90t/boat)
+   Model 3: 47202.6t total (122 trips, avg 15734.19t/boat)
+   Model 4: 23579.4t total (68 trips, avg 7859.79t/boat)
+================================================================================
+
+================================================================================
+STEP 2,450 / 🕐 2450 hours (102.1 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2001
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 270246.8t
+   ⛽ Avg Fleet Fuel: 8213L / 12000L
+   📦 Avg Fleet Cargo: 271.7t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (49.8, 71.8)       49°      YES   11765L     75.5t      27    
+   1     0      (0.0, 0.0)         215°     NO    9440L      258.8t     13    
+   2     0      (67.7, 65.2)       66°      YES   11209L     70.8t      85    
+   3     1      (67.4, 46.3)       193°     YES   9188L      451.7t     38    
+   4     1      (77.4, 83.8)       219°     YES   5222L      351.2t     30    
+   5     1      (38.5, 65.0)       320°     YES   11844L     292.8t     122   
+   6     2      (16.7, 18.7)       285°     NO    11465L     0.0t       37    
+   7     2      (85.4, 64.3)       190°     YES   11273L     324.1t     80    
+   8     2      (67.9, 18.6)       95°      YES   10995L     98.8t      41    
+   9     3      (58.0, 81.7)       24°      NO    11169L     494.7t     99    
+   10    3      (26.9, 74.3)       275°     YES   9663L      225.8t     28    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (78.4, 30.4)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (24.4, 89.5)       318°     YES   9965L      215.3t     35    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 9/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.3°C
+   Min/Max Temp: 11.4°C / 28.1°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 49258.3t total (125 trips, avg 16419.42t/boat)
+   Model 1: 75983.9t total (190 trips, avg 25327.97t/boat)
+   Model 2: 68388.9t total (158 trips, avg 22796.29t/boat)
+   Model 3: 52424.2t total (136 trips, avg 17474.74t/boat)
+   Model 4: 24191.5t total (71 trips, avg 8063.85t/boat)
+================================================================================
+
+================================================================================
+STEP 2,625 / 🕐 2625 hours (109.4 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1921
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 283260.9t
+   ⛽ Avg Fleet Fuel: 6658L / 12000L
+   📦 Avg Fleet Cargo: 295.7t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (74.0, 99.2)       214°     YES   7143L      298.7t     28    
+   1     0      (0.0, 0.0)         215°     NO    3456L      258.8t     13    
+   2     0      (86.9, 47.3)       342°     NO    11802L     124.3t     87    
+   3     1      (57.2, 20.3)       234°     NO    1266L      500.0t     39    
+   4     1      (38.3, 99.9)       141°     NO    11469L     57.0t      33    
+   5     1      (37.2, 69.4)       347°     YES   11978L     186.3t     135   
+   6     2      (31.5, 12.3)       127°     NO    8368L      0.0t       37    
+   7     2      (86.1, 12.7)       36°      YES   9457L      304.7t     83    
+   8     2      (43.5, 29.0)       198°     YES   10784L     446.3t     43    
+   9     3      (63.1, 84.6)       215°     NO    6876L      500.0t     107   
+   10    3      (33.1, 99.9)       95°      NO    8473L      228.6t     30    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (91.5, 24.9)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (30.0, 61.4)       39°      YES   8798L      315.4t     36    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 5/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.8°C
+   Min/Max Temp: 11.2°C / 25.5°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 50318.5t total (128 trips, avg 16772.84t/boat)
+   Model 1: 82128.0t total (207 trips, avg 27375.99t/boat)
+   Model 2: 70823.5t total (163 trips, avg 23607.85t/boat)
+   Model 3: 55348.1t total (146 trips, avg 18449.35t/boat)
+   Model 4: 24642.8t total (72 trips, avg 8214.26t/boat)
+================================================================================
+
+================================================================================
+STEP 2,800 / 🕐 2800 hours (116.7 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1879
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 300728.7t
+   ⛽ Avg Fleet Fuel: 8226L / 12000L
+   📦 Avg Fleet Cargo: 213.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (50.5, 87.5)       212°     NO    0L         427.9t     28    
+   1     0      (25.9, 18.9)       54°      NO    12000L     0.0t       16    
+   2     0      (85.6, 60.2)       5°       YES   11846L     10.1t      89    
+   3     1      (73.0, 38.9)       51°      NO    10136L     158.6t     41    
+   4     1      (56.9, 84.1)       245°     YES   11392L     129.7t     35    
+   5     1      (35.9, 71.1)       162°     YES   12000L     0.0t       152   
+   6     2      (33.3, 22.3)       58°      NO    11887L     0.0t       39    
+   7     2      (92.7, 49.4)       325°     NO    11643L     196.5t     86    
+   8     2      (0.0, 0.0)         194°     NO    9686L      170.1t     46    
+   9     3      (62.4, 85.0)       231°     NO    9826L      500.0t     113   
+   10    3      (49.2, 87.0)       105°     NO    11465L     296.9t     32    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (99.7, 32.2)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (72.2, 84.5)       49°      YES   11503L     90.5t      39    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 4/15
+   Boats Out of Fuel: 4
+   Boats at Port: 2
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.6°C
+   Min/Max Temp: 11.2°C / 24.8°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 52095.1t total (133 trips, avg 17365.04t/boat)
+   Model 1: 90884.3t total (228 trips, avg 30294.75t/boat)
+   Model 2: 73809.6t total (171 trips, avg 24603.20t/boat)
+   Model 3: 58329.2t total (154 trips, avg 19443.07t/boat)
+   Model 4: 25610.5t total (75 trips, avg 8536.84t/boat)
+================================================================================
+
+================================================================================
+STEP 2,975 / 🕐 2975 hours (124.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1743
+   🎣 Tonnes Caught This Step: 485.98t
+   📈 Total Catch So Far: 309704.7t
+   ⛽ Avg Fleet Fuel: 6415L / 12000L
+   📦 Avg Fleet Cargo: 269.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (50.7, 75.7)       212°     NO    0L         427.9t     28    
+   1     0      (37.5, 21.1)       88°      NO    8751L      0.0t       16    
+   2     0      (78.2, 42.8)       278°     YES   11772L     138.5t     92    
+   3     1      (85.3, 33.8)       212°     NO    8810L      500.0t     42    
+   4     1      (33.5, 97.6)       151°     NO    10961L     159.8t     36    
+   5     1      (35.7, 69.4)       83°      NO    12000L     0.0t       156   
+   6     2      (22.4, 24.4)       267°     NO    8599L      0.0t       39    
+   7     2      (73.4, 25.1)       87°      NO    9057L      468.1t     88    
+   8     2      (0.0, 0.0)         194°     NO    4411L      170.1t     46    
+   9     3      (54.9, 84.3)       346°     NO    8024L      500.0t     122   
+   10    3      (35.3, 99.9)       91°      NO    8074L      150.6t     33    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (99.1, 39.8)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (66.5, 99.9)       98°      NO    5759L      313.0t     39    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 1/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.3°C
+   Min/Max Temp: 9.8°C / 26.7°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 53146.9t total (136 trips, avg 17715.65t/boat)
+   Model 1: 93755.0t total (234 trips, avg 31251.68t/boat)
+   Model 2: 74779.9t total (173 trips, avg 24926.64t/boat)
+   Model 3: 62412.3t total (164 trips, avg 20804.09t/boat)
+   Model 4: 25610.5t total (75 trips, avg 8536.84t/boat)
+================================================================================
+
+================================================================================
+STEP 3,150 / 🕐 3150 hours (131.2 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1678
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 321568.2t
+   ⛽ Avg Fleet Fuel: 7850L / 12000L
+   📦 Avg Fleet Cargo: 191.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (29.9, 84.3)       91°      NO    11553L     91.6t      29    
+   1     0      (31.0, 9.1)        23°      NO    5396L      0.0t       16    
+   2     0      (87.3, 59.0)       20°      YES   11643L     62.6t      96    
+   3     1      (58.5, 39.1)       55°      YES   11504L     103.2t     44    
+   4     1      (69.1, 99.9)       13°      YES   10798L     66.4t      38    
+   5     1      (28.5, 90.8)       110°     NO    11682L     0.0t       159   
+   6     2      (16.3, 15.2)       305°     NO    5276L      0.0t       39    
+   7     2      (99.9, 60.7)       19°      NO    10746L     300.7t     92    
+   8     2      (50.2, 22.6)       123°     NO    11891L     0.0t       48    
+   9     3      (26.5, 88.9)       350°     NO    7784L      476.1t     130   
+   10    3      (48.7, 62.6)       307°     YES   11295L     110.2t     34    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (91.1, 40.7)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (27.6, 91.6)       342°     YES   8178L      450.7t     40    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 5/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.0°C
+   Min/Max Temp: 9.8°C / 23.5°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 55471.7t total (141 trips, avg 18490.58t/boat)
+   Model 1: 96677.6t total (241 trips, avg 32225.85t/boat)
+   Model 2: 77303.1t total (179 trips, avg 25767.71t/boat)
+   Model 3: 66118.9t total (173 trips, avg 22039.63t/boat)
+   Model 4: 25996.8t total (76 trips, avg 8665.61t/boat)
+================================================================================
+
+================================================================================
+STEP 3,325 / 🕐 3325 hours (138.5 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1706
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 331642.0t
+   ⛽ Avg Fleet Fuel: 7216L / 12000L
+   📦 Avg Fleet Cargo: 229.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (39.9, 71.7)       196°     NO    2373L      453.8t     29    
+   1     0      (33.1, 26.2)       229°     NO    1969L      61.0t      16    
+   2     0      (80.7, 52.9)       39°      YES   11407L     144.8t     99    
+   3     1      (55.9, 10.5)       5°       NO    11920L     0.0t       46    
+   4     1      (54.6, 68.3)       247°     NO    10853L     218.7t     40    
+   5     1      (52.8, 99.9)       61°      NO    10544L     0.0t       161   
+   6     2      (31.9, 25.0)       1°       YES   11652L     58.9t      40    
+   7     2      (99.9, 33.1)       325°     NO    6852L      446.8t     93    
+   8     2      (42.5, 32.8)       328°     YES   10352L     54.5t      49    
+   9     3      (61.6, 89.1)       145°     YES   11744L     226.1t     139   
+   10    3      (31.8, 71.0)       72°      YES   11786L     188.1t     36    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (87.0, 33.8)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (29.9, 61.8)       5°       YES   6782L      379.5t     42    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.6°C
+   Min/Max Temp: 9.6°C / 27.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 56886.6t total (144 trips, avg 18962.19t/boat)
+   Model 1: 99115.5t total (247 trips, avg 33038.51t/boat)
+   Model 2: 78397.6t total (182 trips, avg 26132.53t/boat)
+   Model 3: 70772.3t total (184 trips, avg 23590.77t/boat)
+   Model 4: 26470.0t total (78 trips, avg 8823.32t/boat)
+================================================================================
+
+================================================================================
+STEP 3,500 / 🕐 3500 hours (145.8 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1641
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 344277.1t
+   ⛽ Avg Fleet Fuel: 7605L / 12000L
+   📦 Avg Fleet Cargo: 299.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (38.3, 99.9)       86°      NO    10461L     108.9t     32    
+   1     0      (0.0, 0.0)         215°     NO    6136L      306.5t     17    
+   2     0      (82.1, 28.6)       108°     NO    9795L      470.3t     102   
+   3     1      (34.3, 11.0)       7°       NO    5330L      500.0t     47    
+   4     1      (57.2, 85.9)       160°     YES   11953L     0.0t       42    
+   5     1      (62.3, 83.8)       335°     YES   11911L     270.8t     167   
+   6     2      (0.0, 0.0)         215°     NO    8216L      147.6t     42    
+   7     2      (82.2, 72.6)       316°     YES   11502L     309.0t     96    
+   8     2      (0.0, 0.0)         194°     NO    9711L      198.6t     50    
+   9     3      (65.3, 99.9)       76°      NO    11396L     341.6t     144   
+   10    3      (23.6, 76.1)       265°     YES   11070L     201.9t     37    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (90.4, 26.7)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (54.8, 99.9)       107°     NO    6597L      422.6t     43    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 4/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.7°C
+   Min/Max Temp: 8.8°C / 19.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 59773.9t total (151 trips, avg 19924.64t/boat)
+   Model 1: 103294.5t total (256 trips, avg 34431.51t/boat)
+   Model 2: 80981.6t total (188 trips, avg 26993.86t/boat)
+   Model 3: 73304.7t total (190 trips, avg 24434.91t/boat)
+   Model 4: 26922.3t total (79 trips, avg 8974.12t/boat)
+================================================================================
+
+================================================================================
+STEP 3,675 / 🕐 3675 hours (153.1 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1687
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 357833.4t
+   ⛽ Avg Fleet Fuel: 6889L / 12000L
+   📦 Avg Fleet Cargo: 247.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (39.1, 73.4)       222°     NO    1573L      450.4t     32    
+   1     0      (28.5, 11.8)       98°      YES   10449L     144.1t     18    
+   2     0      (78.6, 52.3)       253°     YES   11797L     65.8t      106   
+   3     1      (41.1, 28.1)       341°     YES   10900L     256.7t     50    
+   4     1      (66.3, 99.6)       198°     YES   11690L     39.3t      43    
+   5     1      (32.9, 90.9)       278°     NO    9591L      500.0t     174   
+   6     2      (0.0, 0.0)         215°     NO    2804L      147.6t     42    
+   7     2      (81.3, 56.3)       162°     YES   11613L     100.2t     99    
+   8     2      (0.0, 0.0)         194°     NO    3921L      198.6t     50    
+   9     3      (60.5, 82.1)       196°     NO    12000L     0.0t       152   
+   10    3      (73.1, 86.2)       345°     YES   10603L     121.3t     39    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (97.0, 25.1)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (56.9, 74.9)       65°      NO    6393L      466.8t     44    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 3
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.6°C
+   Min/Max Temp: 8.6°C / 27.5°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 61630.4t total (156 trips, avg 20543.46t/boat)
+   Model 1: 108607.9t total (267 trips, avg 36202.62t/boat)
+   Model 2: 82352.9t total (191 trips, avg 27450.98t/boat)
+   Model 3: 77862.6t total (200 trips, avg 25954.19t/boat)
+   Model 4: 27379.6t total (80 trips, avg 9126.53t/boat)
+================================================================================
+
+================================================================================
+STEP 3,850 / 🕐 3850 hours (160.4 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1654
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 369040.6t
+   ⛽ Avg Fleet Fuel: 7817L / 12000L
+   📦 Avg Fleet Cargo: 216.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (63.1, 91.6)       147°     YES   7981L      344.6t     34    
+   1     0      (0.0, 0.0)         215°     NO    6233L      210.9t     19    
+   2     0      (94.4, 56.9)       195°     NO    9415L      500.0t     109   
+   3     1      (55.2, 2.0)        360°     NO    10041L     0.0t       52    
+   4     1      (62.6, 99.9)       84°      NO    5786L      316.7t     43    
+   5     1      (42.8, 94.4)       20°      YES   11638L     0.0t       178   
+   6     2      (40.3, 19.6)       88°      NO    11642L     0.0t       44    
+   7     2      (70.4, 75.0)       229°     NO    10069L     482.1t     102   
+   8     2      (42.2, 12.8)       270°     NO    10233L     0.0t       51    
+   9     3      (61.1, 85.1)       85°      NO    11985L     0.0t       157   
+   10    3      (56.4, 85.7)       122°     NO    11943L     0.0t       40    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (99.9, 28.1)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (28.6, 73.8)       286°     YES   10289L     182.2t     46    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 3/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.6°C
+   Min/Max Temp: 8.0°C / 21.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 63804.5t total (162 trips, avg 21268.17t/boat)
+   Model 1: 111502.6t total (273 trips, avg 37167.54t/boat)
+   Model 2: 84668.8t total (197 trips, avg 28222.94t/boat)
+   Model 3: 80761.5t total (206 trips, avg 26920.52t/boat)
+   Model 4: 28303.1t total (82 trips, avg 9434.37t/boat)
+================================================================================
+
+================================================================================
+STEP 4,025 / 🕐 4025 hours (167.7 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1619
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 379369.8t
+   ⛽ Avg Fleet Fuel: 7986L / 12000L
+   📦 Avg Fleet Cargo: 233.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (64.1, 66.9)       44°      YES   11754L     43.9t      36    
+   1     0      (1.5, 24.5)        162°     YES   11160L     146.9t     20    
+   2     0      (70.9, 53.6)       138°     YES   11848L     38.0t      114   
+   3     1      (46.8, 29.1)       71°      YES   5234L      347.2t     52    
+   4     1      (38.9, 54.3)       5°       YES   9638L      449.1t     44    
+   5     1      (49.3, 86.2)       229°     NO    10545L     500.0t     182   
+   6     2      (43.6, 29.4)       3°       YES   9581L      126.6t     45    
+   7     2      (71.8, 53.3)       151°     YES   11903L     0.0t       107   
+   8     2      (46.2, 26.3)       86°      YES   6896L      47.6t      51    
+   9     3      (60.4, 99.9)       91°      NO    10652L     229.8t     159   
+   10    3      (21.8, 70.7)       287°     YES   10945L     138.7t     41    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (99.9, 29.7)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (70.3, 91.4)       250°     YES   9631L      222.6t     47    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 10/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 17.5°C
+   Min/Max Temp: 7.7°C / 28.0°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 67388.0t total (170 trips, avg 22462.67t/boat)
+   Model 1: 113882.3t total (278 trips, avg 37960.76t/boat)
+   Model 2: 87124.9t total (203 trips, avg 29041.63t/boat)
+   Model 3: 82203.3t total (209 trips, avg 27401.09t/boat)
+   Model 4: 28771.4t total (83 trips, avg 9590.46t/boat)
+================================================================================
+
+================================================================================
+STEP 4,200 / 🕐 4200 hours (175.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1730
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 393260.6t
+   ⛽ Avg Fleet Fuel: 8382L / 12000L
+   📦 Avg Fleet Cargo: 285.0t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (65.8, 87.2)       57°      YES   7692L      293.1t     37    
+   1     0      (0.0, 0.0)         215°     NO    9999L      14.4t      22    
+   2     0      (67.2, 54.6)       38°      YES   11567L     238.4t     118   
+   3     1      (0.0, 0.0)         194°     NO    8855L      337.4t     53    
+   4     1      (74.6, 99.2)       214°     YES   9615L      382.8t     46    
+   5     1      (42.7, 87.6)       68°      NO    11773L     0.0t       189   
+   6     2      (31.0, 19.7)       194°     NO    10612L     457.7t     47    
+   7     2      (74.0, 51.8)       262°     YES   12000L     125.4t     111   
+   8     2      (41.6, 21.3)       83°      YES   11490L     286.9t     52    
+   9     3      (33.3, 66.0)       239°     YES   11534L     276.0t     163   
+   10    3      (53.5, 99.9)       33°      YES   10126L     222.6t     42    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (97.4, 28.0)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (39.8, 62.5)       94°      NO    10472L     424.9t     49    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 3
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.4°C
+   Min/Max Temp: 7.8°C / 27.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 70803.5t total (177 trips, avg 23601.17t/boat)
+   Model 1: 118373.5t total (288 trips, avg 39457.83t/boat)
+   Model 2: 89817.1t total (210 trips, avg 29939.03t/boat)
+   Model 3: 84578.1t total (214 trips, avg 28192.71t/boat)
+   Model 4: 29688.4t total (85 trips, avg 9896.12t/boat)
+================================================================================
+
+================================================================================
+STEP 4,375 / 🕐 4375 hours (182.3 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1810
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 408010.6t
+   ⛽ Avg Fleet Fuel: 6898L / 12000L
+   📦 Avg Fleet Cargo: 316.3t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (55.6, 99.9)       57°      NO    8828L      426.8t     40    
+   1     0      (0.0, 0.0)         215°     NO    5591L      14.4t      22    
+   2     0      (85.4, 56.6)       70°      YES   10132L     406.7t     123   
+   3     1      (44.5, 11.5)       9°       NO    0L         337.4t     53    
+   4     1      (26.3, 83.1)       310°     YES   9615L      208.6t     47    
+   5     1      (41.7, 74.5)       214°     NO    9369L      463.8t     194   
+   6     2      (27.4, 18.9)       16°      NO    12000L     0.0t       53    
+   7     2      (84.8, 57.7)       49°      YES   11544L     181.3t     118   
+   8     2      (38.4, 9.2)        16°      NO    5137L      485.8t     54    
+   9     3      (70.8, 72.4)       101°     NO    11332L     459.9t     166   
+   10    3      (34.9, 81.5)       87°      YES   11397L     187.9t     44    
+   11    3      (0.0, 0.0)         29°      NO    0L         426.9t     9     
+   12    4      (99.9, 26.1)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 0.0)         242°     NO    0L         345.0t     13    
+   14    4      (20.8, 72.3)       33°      YES   8530L      355.2t     51    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 5/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.6°C
+   Min/Max Temp: 7.3°C / 22.8°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 73828.5t total (185 trips, avg 24609.51t/boat)
+   Model 1: 121304.4t total (294 trips, avg 40434.80t/boat)
+   Model 2: 95262.2t total (225 trips, avg 31754.06t/boat)
+   Model 3: 86990.4t total (219 trips, avg 28996.81t/boat)
+   Model 4: 30625.1t total (87 trips, avg 10208.36t/boat)
+================================================================================
+
+================================================================================
+STEP 4,550 / 🕐 4550 hours (189.6 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1901
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 424224.2t
+   ⛽ Avg Fleet Fuel: 7930L / 12000L
+   📦 Avg Fleet Cargo: 233.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (80.8, 85.3)       215°     YES   10137L     71.2t      42    
+   1     0      (27.2, 6.4)        246°     YES   11800L     50.2t      23    
+   2     0      (75.3, 52.4)       23°      YES   12000L     0.0t       130   
+   3     1      (0.0, 1.9)         9°       NO    0L         337.4t     53    
+   4     1      (31.8, 85.5)       259°     NO    7042L      446.2t     48    
+   5     1      (62.9, 99.9)       49°      NO    11076L     0.0t       201   
+   6     2      (16.1, 9.2)        203°     YES   11670L     276.6t     58    
+   7     2      (77.0, 43.9)       204°     YES   11592L     49.2t      122   
+   8     2      (34.3, 7.9)        172°     YES   11024L     402.6t     58    
+   9     3      (42.6, 75.8)       175°     YES   11747L     333.5t     170   
+   10    3      (34.3, 88.1)       181°     NO    9143L      325.3t     46    
+   11    3      (0.0, 2.6)         29°      NO    0L         426.9t     9     
+   12    4      (99.9, 28.7)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 2.6)         242°     NO    0L         345.0t     13    
+   14    4      (51.9, 63.2)       246°     NO    11723L     0.0t       53    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.3°C
+   Min/Max Temp: 7.0°C / 26.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 77427.3t total (195 trips, avg 25809.10t/boat)
+   Model 1: 124833.4t total (302 trips, avg 41611.13t/boat)
+   Model 2: 100592.0t total (238 trips, avg 33530.68t/boat)
+   Model 3: 89831.5t total (225 trips, avg 29943.82t/boat)
+   Model 4: 31540.1t total (89 trips, avg 10513.35t/boat)
+================================================================================
+
+================================================================================
+STEP 4,725 / 🕐 4725 hours (196.9 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1935
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 439399.0t
+   ⛽ Avg Fleet Fuel: 7564L / 12000L
+   📦 Avg Fleet Cargo: 351.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (44.5, 39.7)       18°      YES   10873L     455.8t     43    
+   1     0      (0.0, 0.0)         215°     NO    3882L      400.0t     23    
+   2     0      (73.9, 62.3)       274°     NO    10521L     500.0t     138   
+   3     1      (0.0, 10.0)        9°       NO    0L         337.4t     53    
+   4     1      (61.4, 83.0)       61°      NO    12000L     0.0t       50    
+   5     1      (44.5, 75.8)       34°      YES   11861L     500.0t     205   
+   6     2      (12.0, 16.7)       205°     YES   10626L     343.1t     64    
+   7     2      (78.3, 58.2)       112°     YES   10893L     276.7t     130   
+   8     2      (36.6, 14.7)       89°      NO    9806L      500.0t     62    
+   9     3      (51.6, 99.9)       116°     NO    9603L      435.8t     174   
+   10    3      (49.9, 48.5)       284°     YES   11590L     238.9t     48    
+   11    3      (0.0, 10.7)        29°      NO    0L         426.9t     9     
+   12    4      (99.9, 36.8)       230°     NO    0L         444.1t     23    
+   13    4      (0.0, 10.7)        242°     NO    0L         345.0t     13    
+   14    4      (69.0, 77.8)       329°     NO    11801L     74.5t      55    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 5/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.4°C
+   Min/Max Temp: 7.4°C / 23.8°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 80013.6t total (204 trips, avg 26671.19t/boat)
+   Model 1: 127741.0t total (308 trips, avg 42580.35t/boat)
+   Model 2: 106442.4t total (256 trips, avg 35480.80t/boat)
+   Model 3: 92729.6t total (231 trips, avg 30909.86t/boat)
+   Model 4: 32472.4t total (91 trips, avg 10824.14t/boat)
+================================================================================
+
+================================================================================
+STEP 4,900 / 🕐 4900 hours (204.2 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 1997
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 458417.4t
+   ⛽ Avg Fleet Fuel: 7711L / 12000L
+   📦 Avg Fleet Cargo: 276.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (62.0, 99.9)       162°     NO    4917L      318.9t     45    
+   1     0      (0.0, 0.0)         215°     NO    9515L      221.1t     26    
+   2     0      (73.2, 53.7)       306°     NO    11295L     466.2t     145   
+   3     1      (0.2, 23.5)        9°       NO    0L         337.4t     53    
+   4     1      (64.7, 98.2)       133°     NO    11678L     0.0t       51    
+   5     1      (33.1, 68.5)       286°     NO    11888L     469.9t     212   
+   6     2      (26.4, 19.1)       1°       YES   12000L     0.0t       70    
+   7     2      (71.3, 54.1)       325°     NO    10421L     472.8t     135   
+   8     2      (20.9, 0.0)        209°     YES   10772L     367.2t     67    
+   9     3      (60.8, 93.8)       89°      NO    11865L     0.0t       178   
+   10    3      (21.7, 67.0)       140°     YES   11616L     191.1t     52    
+   11    3      (0.6, 24.2)        29°      NO    0L         426.9t     9     
+   12    4      (99.9, 50.3)       230°     NO    0L         444.1t     23    
+   13    4      (0.6, 24.2)        242°     NO    0L         345.0t     13    
+   14    4      (73.9, 99.0)       360°     YES   9703L      91.8t      56    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 4/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.1°C
+   Min/Max Temp: 6.5°C / 26.1°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 84036.6t total (216 trips, avg 28012.21t/boat)
+   Model 1: 131693.0t total (316 trips, avg 43897.67t/boat)
+   Model 2: 114056.7t total (272 trips, avg 38018.90t/boat)
+   Model 3: 95704.9t total (239 trips, avg 31901.63t/boat)
+   Model 4: 32926.2t total (92 trips, avg 10975.39t/boat)
+================================================================================
+
+================================================================================
+STEP 5,075 / 🕐 5075 hours (211.5 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2072
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 477026.2t
+   ⛽ Avg Fleet Fuel: 7232L / 12000L
+   📦 Avg Fleet Cargo: 343.4t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (71.7, 48.3)       142°     YES   10184L     332.2t     47    
+   1     0      (11.2, 12.9)       20°      NO    1446L      284.4t     26    
+   2     0      (85.7, 53.6)       40°      YES   10727L     449.4t     152   
+   3     1      (1.3, 19.4)        9°       NO    0L         337.4t     53    
+   4     1      (83.3, 90.9)       221°     YES   6629L      320.3t     51    
+   5     1      (31.7, 64.7)       259°     YES   11870L     373.1t     222   
+   6     2      (22.9, 26.5)       180°     YES   11569L     282.9t     75    
+   7     2      (82.0, 55.0)       8°       YES   11850L     0.0t       143   
+   8     2      (50.8, 20.9)       112°     YES   11309L     500.0t     74    
+   9     3      (50.7, 87.8)       103°     NO    10707L     493.2t     181   
+   10    3      (48.6, 56.6)       132°     NO    10364L     466.1t     54    
+   11    3      (0.9, 20.2)        29°      NO    0L         426.9t     9     
+   12    4      (99.9, 69.2)       230°     NO    0L         444.1t     23    
+   13    4      (0.9, 20.2)        242°     NO    0L         345.0t     13    
+   14    4      (61.2, 71.5)       273°     NO    11820L     96.3t      57    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 16.0°C
+   Min/Max Temp: 8.9°C / 25.9°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 87812.4t total (225 trips, avg 29270.81t/boat)
+   Model 1: 136453.0t total (326 trips, avg 45484.33t/boat)
+   Model 2: 121229.6t total (292 trips, avg 40409.86t/boat)
+   Model 3: 98161.2t total (244 trips, avg 32720.39t/boat)
+   Model 4: 33370.0t total (93 trips, avg 11123.34t/boat)
+================================================================================
+
+================================================================================
+STEP 5,250 / 🕐 5250 hours (218.8 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2147
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 501797.3t
+   ⛽ Avg Fleet Fuel: 7857L / 12000L
+   📦 Avg Fleet Cargo: 367.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (39.9, 39.5)       103°     YES   9875L      358.4t     49    
+   1     0      (29.1, 5.3)        263°     YES   10732L     106.7t     29    
+   2     0      (67.3, 55.4)       130°     YES   11426L     337.4t     159   
+   3     1      (4.4, 16.5)        9°       NO    0L         337.4t     53    
+   4     1      (99.1, 52.6)       233°     YES   9809L      423.0t     53    
+   5     1      (30.4, 64.7)       225°     YES   11848L     500.0t     233   
+   6     2      (26.3, 13.2)       89°      NO    9171L      500.0t     82    
+   7     2      (72.7, 48.0)       80°      YES   11047L     261.3t     154   
+   8     2      (41.6, 24.7)       228°     YES   11204L     373.7t     78    
+   9     3      (72.3, 84.1)       99°      NO    10964L     500.0t     186   
+   10    3      (28.4, 53.3)       322°     YES   11365L     293.0t     58    
+   11    3      (3.4, 16.9)        29°      NO    0L         426.9t     9     
+   12    4      (42.8, 95.6)       230°     NO    0L         444.1t     23    
+   13    4      (3.4, 16.9)        242°     NO    0L         345.0t     13    
+   14    4      (37.8, 91.9)       186°     YES   10407L     307.7t     59    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 9/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 15.2°C
+   Min/Max Temp: 7.8°C / 25.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 92643.1t total (237 trips, avg 30881.03t/boat)
+   Model 1: 142506.8t total (339 trips, avg 47502.26t/boat)
+   Model 2: 130412.8t total (314 trips, avg 43470.93t/boat)
+   Model 3: 101954.6t total (253 trips, avg 33984.86t/boat)
+   Model 4: 34280.0t total (95 trips, avg 11426.67t/boat)
+================================================================================
+
+================================================================================
+STEP 5,425 / 🕐 5425 hours (226.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2190
+   🎣 Tonnes Caught This Step: 500.00t
+   📈 Total Catch So Far: 526635.2t
+   ⛽ Avg Fleet Fuel: 7917L / 12000L
+   📦 Avg Fleet Cargo: 302.4t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (51.2, 77.9)       25°      NO    11594L     92.8t      51    
+   1     0      (27.5, 5.9)        313°     YES   9270L      436.0t     30    
+   2     0      (77.9, 52.0)       83°      YES   11376L     417.8t     168   
+   3     1      (8.7, 15.5)        9°       NO    0L         337.4t     53    
+   4     1      (47.5, 49.2)       277°     YES   11193L     227.6t     56    
+   5     1      (37.2, 75.1)       68°      YES   11698L     419.8t     242   
+   6     2      (25.1, 19.8)       316°     NO    11053L     482.5t     91    
+   7     2      (75.8, 52.3)       206°     NO    12000L     0.0t       165   
+   8     2      (27.6, 5.9)        182°     YES   8636L      437.3t     81    
+   9     3      (72.0, 80.7)       345°     YES   11545L     0.0t       191   
+   10    3      (80.8, 83.8)       100°     YES   10278L     216.6t     60    
+   11    3      (7.6, 15.1)        29°      NO    0L         426.9t     9     
+   12    4      (72.2, 45.2)       230°     NO    0L         444.1t     23    
+   13    4      (7.6, 15.1)        242°     NO    0L         345.0t     13    
+   14    4      (14.3, 64.0)       172°     YES   10105L     252.9t     61    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 8/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.8°C
+   Min/Max Temp: 7.6°C / 24.9°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 98060.5t total (249 trips, avg 32686.84t/boat)
+   Model 1: 148344.9t total (351 trips, avg 49448.29t/boat)
+   Model 2: 139829.6t total (337 trips, avg 46609.86t/boat)
+   Model 3: 105198.3t total (260 trips, avg 35066.09t/boat)
+   Model 4: 35201.9t total (97 trips, avg 11733.96t/boat)
+================================================================================
+
+================================================================================
+STEP 5,600 / 🕐 5600 hours (233.3 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2208
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 552199.4t
+   ⛽ Avg Fleet Fuel: 7505L / 12000L
+   📦 Avg Fleet Cargo: 329.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (51.4, 50.8)       128°     NO    10117L     460.7t     55    
+   1     0      (0.0, 1.2)         211°     YES   8069L      427.3t     32    
+   2     0      (72.5, 50.0)       38°      NO    11260L     500.0t     178   
+   3     1      (12.4, 17.1)       9°       NO    0L         337.4t     53    
+   4     1      (69.5, 84.4)       336°     NO    11821L     0.0t       58    
+   5     1      (33.9, 73.8)       253°     NO    11698L     500.0t     253   
+   6     2      (22.0, 11.1)       229°     YES   11753L     211.5t     103   
+   7     2      (76.7, 54.7)       38°      YES   11962L     0.0t       177   
+   8     2      (34.5, 4.9)        162°     NO    9104L      427.4t     84    
+   9     3      (57.7, 81.7)       22°      NO    10031L     500.0t     195   
+   10    3      (70.5, 88.7)       219°     NO    5958L      294.1t     61    
+   11    3      (11.8, 15.9)       29°      NO    0L         426.9t     9     
+   12    4      (35.9, 87.9)       230°     NO    0L         444.1t     23    
+   13    4      (11.8, 15.9)       242°     NO    0L         345.0t     13    
+   14    4      (77.4, 96.2)       241°     YES   10804L     74.2t      63    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 4/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.4°C
+   Min/Max Temp: 6.6°C / 25.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 104077.2t total (265 trips, avg 34692.41t/boat)
+   Model 1: 154180.4t total (364 trips, avg 51393.46t/boat)
+   Model 2: 150280.4t total (364 trips, avg 50093.48t/boat)
+   Model 3: 107541.2t total (265 trips, avg 35847.07t/boat)
+   Model 4: 36120.2t total (99 trips, avg 12040.06t/boat)
+================================================================================
+
+================================================================================
+STEP 5,775 / 🕐 5775 hours (240.6 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2244
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 578346.1t
+   ⛽ Avg Fleet Fuel: 8019L / 12000L
+   📦 Avg Fleet Cargo: 365.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (13.9, 62.2)       233°     YES   11341L     275.8t     57    
+   1     0      (0.0, 0.9)         184°     NO    10235L     258.6t     36    
+   2     0      (66.8, 44.0)       114°     NO    10957L     478.1t     187   
+   3     1      (13.3, 20.2)       9°       NO    0L         337.4t     53    
+   4     1      (52.0, 86.0)       197°     YES   10079L     244.9t     60    
+   5     1      (34.7, 72.3)       304°     NO    11495L     500.0t     261   
+   6     2      (22.4, 23.7)       83°      NO    11616L     500.0t     115   
+   7     2      (75.8, 61.2)       184°     NO    11419L     464.0t     185   
+   8     2      (51.1, 23.3)       105°     YES   10695L     430.8t     88    
+   9     3      (54.6, 80.2)       229°     NO    11595L     484.4t     200   
+   10    3      (48.6, 91.3)       168°     YES   9905L      264.2t     63    
+   11    3      (13.9, 18.9)       29°      NO    0L         426.9t     9     
+   12    4      (76.8, 43.9)       230°     NO    0L         444.1t     23    
+   13    4      (13.9, 18.9)       242°     NO    0L         345.0t     13    
+   14    4      (64.6, 95.7)       167°     NO    10957L     22.4t      64    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 4/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.7°C
+   Min/Max Temp: 5.9°C / 23.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 110218.1t total (280 trips, avg 36739.35t/boat)
+   Model 1: 159017.3t total (374 trips, avg 53005.75t/boat)
+   Model 2: 161700.8t total (388 trips, avg 53900.27t/boat)
+   Model 3: 110836.6t total (272 trips, avg 36945.53t/boat)
+   Model 4: 36573.4t total (100 trips, avg 12191.12t/boat)
+================================================================================
+
+================================================================================
+STEP 5,950 / 🕐 5950 hours (247.9 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2256
+   🎣 Tonnes Caught This Step: 481.68t
+   📈 Total Catch So Far: 606111.4t
+   ⛽ Avg Fleet Fuel: 7287L / 12000L
+   📦 Avg Fleet Cargo: 300.2t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (67.5, 76.1)       190°     NO    3166L      456.7t     59    
+   1     0      (1.5, 0.0)         328°     YES   7357L      374.0t     37    
+   2     0      (75.1, 51.8)       272°     YES   12000L     183.3t     195   
+   3     1      (11.2, 22.3)       9°       NO    0L         337.4t     53    
+   4     1      (55.5, 57.0)       79°      NO    6628L      455.4t     61    
+   5     1      (35.9, 70.7)       247°     YES   12000L     157.1t     276   
+   6     2      (25.9, 17.5)       64°      NO    12000L     0.0t       125   
+   7     2      (74.5, 44.4)       4°       NO    11333L     500.0t     193   
+   8     2      (41.9, 7.9)        348°     YES   10575L     349.0t     94    
+   9     3      (63.5, 85.7)       98°      YES   11864L     0.0t       210   
+   10    3      (26.3, 54.7)       306°     YES   11680L     145.5t     66    
+   11    3      (12.6, 21.7)       29°      NO    0L         426.9t     9     
+   12    4      (41.1, 90.6)       230°     NO    0L         444.1t     23    
+   13    4      (12.6, 21.7)       242°     NO    0L         345.0t     13    
+   14    4      (46.5, 76.2)       28°      YES   10706L     327.9t     66    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 4
+   Boats at Port: 3
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.8°C
+   Min/Max Temp: 7.2°C / 24.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 114687.8t total (291 trips, avg 38229.27t/boat)
+   Model 1: 165493.2t total (390 trips, avg 55164.41t/boat)
+   Model 2: 172352.3t total (412 trips, avg 57450.77t/boat)
+   Model 3: 116463.9t total (285 trips, avg 38821.31t/boat)
+   Model 4: 37114.1t total (102 trips, avg 12371.37t/boat)
+================================================================================
+
+================================================================================
+STEP 6,125 / 🕐 6125 hours (255.2 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2259
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 632082.2t
+   ⛽ Avg Fleet Fuel: 7793L / 12000L
+   📦 Avg Fleet Cargo: 321.1t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (53.6, 64.6)       161°     NO    7949L      463.6t     62    
+   1     0      (0.0, 1.4)         212°     NO    6770L      280.4t     38    
+   2     0      (74.2, 50.2)       286°     YES   11968L     0.0t       207   
+   3     1      (7.0, 21.1)        9°       NO    0L         337.4t     53    
+   4     1      (50.9, 95.8)       104°     YES   9151L      394.7t     63    
+   5     1      (35.9, 70.0)       8°       YES   12000L     241.5t     288   
+   6     2      (32.9, 18.9)       312°     NO    11767L     500.0t     134   
+   7     2      (71.1, 51.9)       311°     NO    11581L     453.7t     202   
+   8     2      (46.6, 17.7)       234°     YES   11509L     296.8t     98    
+   9     3      (47.0, 72.7)       315°     NO    11307L     437.6t     214   
+   10    3      (39.5, 57.4)       301°     YES   11814L     40.8t      69    
+   11    3      (8.6, 21.8)        29°      NO    0L         426.9t     9     
+   12    4      (68.5, 32.2)       230°     NO    0L         444.1t     23    
+   13    4      (8.6, 21.8)        242°     NO    0L         345.0t     13    
+   14    4      (44.6, 97.6)       337°     YES   11072L     154.6t     69    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.2°C
+   Min/Max Temp: 8.0°C / 24.5°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 120908.6t total (307 trips, avg 40302.87t/boat)
+   Model 1: 171279.8t total (404 trips, avg 57093.27t/boat)
+   Model 2: 182392.1t total (434 trips, avg 60797.38t/boat)
+   Model 3: 119424.3t total (292 trips, avg 39808.10t/boat)
+   Model 4: 38077.3t total (105 trips, avg 12692.44t/boat)
+================================================================================
+
+================================================================================
+STEP 6,300 / 🕐 6300 hours (262.5 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2257
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 655918.8t
+   ⛽ Avg Fleet Fuel: 8037L / 12000L
+   📦 Avg Fleet Cargo: 293.7t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (49.5, 48.6)       300°     YES   11183L     374.3t     67    
+   1     0      (24.4, 19.6)       184°     YES   11979L     65.3t      40    
+   2     0      (71.1, 55.6)       144°     YES   11866L     223.2t     214   
+   3     1      (4.4, 15.6)        9°       NO    0L         337.4t     53    
+   4     1      (23.5, 77.7)       193°     YES   10543L     227.4t     65    
+   5     1      (33.1, 74.4)       91°      YES   11735L     256.2t     302   
+   6     2      (0.0, 26.4)        164°     YES   8236L      370.1t     140   
+   7     2      (71.9, 49.3)       42°      NO    10989L     500.0t     210   
+   8     2      (47.5, 2.6)        241°     YES   11667L     151.4t     106   
+   9     3      (60.7, 79.0)       91°      NO    9141L      500.0t     218   
+   10    3      (57.8, 72.0)       4°       NO    11393L     171.3t     72    
+   11    3      (4.9, 17.4)        29°      NO    0L         426.9t     9     
+   12    4      (58.8, 99.3)       230°     NO    0L         444.1t     23    
+   13    4      (4.9, 17.4)        242°     NO    0L         345.0t     13    
+   14    4      (53.6, 86.6)       227°     YES   11830L     13.4t      74    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 8/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.3°C
+   Min/Max Temp: 6.4°C / 24.3°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 126202.6t total (321 trips, avg 42067.54t/boat)
+   Model 1: 177444.0t total (420 trips, avg 59147.99t/boat)
+   Model 2: 191227.4t total (456 trips, avg 63742.48t/boat)
+   Model 3: 122004.5t total (299 trips, avg 40668.18t/boat)
+   Model 4: 39040.2t total (110 trips, avg 13013.40t/boat)
+================================================================================
+
+================================================================================
+STEP 6,475 / 🕐 6475 hours (269.8 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2263
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 677774.5t
+   ⛽ Avg Fleet Fuel: 7771L / 12000L
+   📦 Avg Fleet Cargo: 307.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (40.7, 39.1)       221°     YES   11050L     371.0t     70    
+   1     0      (3.9, 29.7)        324°     YES   5418L      160.3t     40    
+   2     0      (78.6, 55.9)       227°     NO    10704L     464.7t     221   
+   3     1      (7.0, 8.3)         9°       NO    0L         337.4t     53    
+   4     1      (67.4, 85.9)       307°     NO    11824L     0.0t       67    
+   5     1      (34.8, 62.5)       272°     YES   11869L     323.7t     311   
+   6     2      (30.6, 23.7)       312°     NO    11593L     500.0t     148   
+   7     2      (66.3, 50.2)       202°     YES   11536L     360.1t     219   
+   8     2      (52.0, 17.5)       269°     NO    9938L      463.0t     111   
+   9     3      (56.8, 59.8)       261°     NO    11533L     110.6t     224   
+   10    3      (46.9, 95.1)       319°     YES   10090L     251.8t     75    
+   11    3      (5.7, 9.8)         29°      NO    0L         426.9t     9     
+   12    4      (51.5, 29.6)       230°     NO    0L         444.1t     23    
+   13    4      (5.7, 9.8)         242°     NO    0L         345.0t     13    
+   14    4      (69.3, 95.7)       146°     NO    11012L     58.2t      75    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 5/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.8°C
+   Min/Max Temp: 6.9°C / 23.9°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 130211.9t total (331 trips, avg 43403.97t/boat)
+   Model 1: 182234.2t total (431 trips, avg 60744.75t/boat)
+   Model 2: 200241.2t total (478 trips, avg 66747.06t/boat)
+   Model 3: 125567.7t total (308 trips, avg 41855.90t/boat)
+   Model 4: 39519.5t total (111 trips, avg 13173.17t/boat)
+================================================================================
+
+================================================================================
+STEP 6,650 / 🕐 6650 hours (277.1 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2261
+   🎣 Tonnes Caught This Step: 151.52t
+   📈 Total Catch So Far: 701800.4t
+   ⛽ Avg Fleet Fuel: 8132L / 12000L
+   📦 Avg Fleet Cargo: 272.7t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (12.6, 60.0)       291°     YES   10448L     333.4t     73    
+   1     0      (8.9, 12.4)        230°     YES   11507L     139.2t     42    
+   2     0      (83.1, 50.6)       209°     NO    11191L     500.0t     234   
+   3     1      (14.2, 4.3)        9°       NO    0L         337.4t     53    
+   4     1      (70.1, 99.9)       63°      NO    9031L      260.8t     68    
+   5     1      (36.7, 69.7)       340°     YES   12000L     0.0t       323   
+   6     2      (26.4, 12.9)       284°     NO    11919L     0.0t       154   
+   7     2      (76.1, 55.1)       246°     NO    10402L     493.0t     228   
+   8     2      (45.9, 15.7)       124°     YES   11695L     171.0t     117   
+   9     3      (60.8, 85.4)       42°      YES   11922L     166.0t     232   
+   10    3      (20.2, 51.0)       134°     YES   11297L     200.5t     78    
+   11    3      (12.3, 4.2)        29°      NO    0L         426.9t     9     
+   12    4      (89.6, 79.7)       230°     NO    0L         444.1t     23    
+   13    4      (12.3, 4.2)        242°     NO    0L         345.0t     13    
+   14    4      (25.1, 77.9)       341°     YES   10562L     272.9t     76    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.8°C
+   Min/Max Temp: 7.4°C / 22.8°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 136132.3t total (349 trips, avg 45377.44t/boat)
+   Model 1: 187527.9t total (444 trips, avg 62509.30t/boat)
+   Model 2: 208564.3t total (499 trips, avg 69521.42t/boat)
+   Model 3: 129597.5t total (319 trips, avg 43199.17t/boat)
+   Model 4: 39978.4t total (112 trips, avg 13326.14t/boat)
+================================================================================
+
+================================================================================
+STEP 6,825 / 🕐 6825 hours (284.4 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2269
+   🎣 Tonnes Caught This Step: 500.00t
+   📈 Total Catch So Far: 725691.5t
+   ⛽ Avg Fleet Fuel: 7918L / 12000L
+   📦 Avg Fleet Cargo: 219.6t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (72.1, 75.3)       281°     YES   10460L     243.0t     76    
+   1     0      (0.0, 1.4)         212°     NO    4863L      245.8t     42    
+   2     0      (71.2, 55.6)       45°      YES   11819L     124.6t     245   
+   3     1      (22.1, 7.0)        9°       NO    0L         337.4t     53    
+   4     1      (57.8, 75.4)       172°     YES   11691L     62.4t      71    
+   5     1      (38.0, 71.6)       60°      YES   11872L     441.2t     334   
+   6     2      (23.9, 21.4)       131°     NO    11936L     0.0t       160   
+   7     2      (74.8, 52.9)       11°      YES   12000L     0.0t       241   
+   8     2      (53.0, 12.8)       338°     YES   12000L     0.0t       122   
+   9     3      (59.5, 82.4)       24°      NO    12000L     0.0t       239   
+   10    3      (43.4, 72.1)       224°     YES   9951L      305.2t     81    
+   11    3      (21.4, 5.5)        29°      NO    0L         426.9t     9     
+   12    4      (24.9, 59.5)       230°     NO    0L         444.1t     23    
+   13    4      (21.4, 5.5)        242°     NO    0L         345.0t     13    
+   14    4      (70.6, 84.2)       109°     YES   10178L     319.1t     78    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 8/15
+   Boats Out of Fuel: 4
+   Boats at Port: 3
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.3°C
+   Min/Max Temp: 5.6°C / 23.7°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 140509.0t total (363 trips, avg 46836.34t/boat)
+   Model 1: 192674.3t total (458 trips, avg 64224.78t/boat)
+   Model 2: 218396.0t total (523 trips, avg 72798.68t/boat)
+   Model 3: 133642.9t total (329 trips, avg 44547.64t/boat)
+   Model 4: 40469.2t total (114 trips, avg 13489.73t/boat)
+================================================================================
+
+================================================================================
+STEP 7,000 / 🕐 7000 hours (291.7 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2259
+   🎣 Tonnes Caught This Step: 453.59t
+   📈 Total Catch So Far: 741414.7t
+   ⛽ Avg Fleet Fuel: 7107L / 12000L
+   📦 Avg Fleet Cargo: 316.3t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (36.7, 69.5)       127°     NO    12000L     0.0t       78    
+   1     0      (41.3, 0.0)        251°     NO    10374L     43.1t      43    
+   2     0      (70.3, 53.4)       79°      YES   11372L     227.1t     253   
+   3     1      (24.4, 14.4)       9°       NO    0L         337.4t     53    
+   4     1      (43.2, 72.7)       11°      YES   10415L     315.6t     73    
+   5     1      (36.6, 68.5)       108°     NO    10156L     500.0t     344   
+   6     2      (29.9, 14.9)       134°     NO    6807L      500.0t     161   
+   7     2      (66.8, 35.7)       172°     NO    10737L     500.0t     247   
+   8     2      (0.0, 1.8)         192°     NO    5740L      368.5t     123   
+   9     3      (61.3, 91.6)       21°      NO    11637L     141.5t     246   
+   10    3      (36.5, 86.0)       7°       YES   10408L     138.8t     84    
+   11    3      (25.2, 13.3)       29°      NO    0L         426.9t     9     
+   12    4      (89.5, 38.6)       230°     NO    0L         444.1t     23    
+   13    4      (25.2, 13.3)       242°     NO    0L         345.0t     13    
+   14    4      (62.2, 81.7)       143°     NO    6958L      457.0t     79    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 3/15
+   Boats Out of Fuel: 4
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.0°C
+   Min/Max Temp: 6.1°C / 23.9°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 144281.3t total (374 trips, avg 48093.78t/boat)
+   Model 1: 197178.0t total (470 trips, avg 65726.00t/boat)
+   Model 2: 221820.7t total (531 trips, avg 73940.23t/boat)
+   Model 3: 137209.6t total (339 trips, avg 45736.53t/boat)
+   Model 4: 40925.1t total (115 trips, avg 13641.69t/boat)
+================================================================================
+
+================================================================================
+STEP 7,175 / 🕐 7175 hours (299.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2263
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 760119.6t
+   ⛽ Avg Fleet Fuel: 7225L / 12000L
+   📦 Avg Fleet Cargo: 345.9t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (30.6, 66.6)       351°     YES   9425L      300.9t     80    
+   1     0      (61.3, 43.5)       21°      YES   10004L     385.4t     45    
+   2     0      (68.7, 55.2)       220°     YES   11593L     127.0t     260   
+   3     1      (18.3, 20.1)       9°       NO    0L         337.4t     53    
+   4     1      (93.1, 85.2)       246°     YES   6125L      286.5t     74    
+   5     1      (42.6, 78.4)       132°     NO    10937L     492.6t     353   
+   6     2      (37.7, 13.5)       328°     YES   11732L     276.1t     168   
+   7     2      (70.4, 72.7)       106°     YES   11278L     341.6t     254   
+   8     2      (56.3, 18.1)       192°     YES   11380L     192.4t     127   
+   9     3      (69.9, 83.7)       62°      NO    11373L     500.0t     252   
+   10    3      (49.0, 62.8)       149°     NO    4032L      493.1t     85    
+   11    3      (19.2, 20.1)       29°      NO    0L         426.9t     9     
+   12    4      (51.9, 88.3)       230°     NO    0L         444.1t     23    
+   13    4      (19.2, 20.1)       242°     NO    0L         345.0t     13    
+   14    4      (33.9, 68.3)       149°     YES   10495L     239.4t     82    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 8/15
+   Boats Out of Fuel: 4
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.4°C
+   Min/Max Temp: 8.9°C / 23.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 147649.2t total (385 trips, avg 49216.38t/boat)
+   Model 1: 201294.1t total (480 trips, avg 67098.04t/boat)
+   Model 2: 229373.8t total (549 trips, avg 76457.95t/boat)
+   Model 3: 139936.1t total (346 trips, avg 46645.38t/boat)
+   Model 4: 41866.4t total (118 trips, avg 13955.46t/boat)
+================================================================================
+
+================================================================================
+STEP 7,350 / 🕐 7350 hours (306.2 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2265
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 778728.8t
+   ⛽ Avg Fleet Fuel: 8016L / 12000L
+   📦 Avg Fleet Cargo: 303.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (37.3, 41.9)       296°     YES   11211L     292.4t     82    
+   1     0      (26.4, 23.2)       270°     NO    6084L      455.0t     46    
+   2     0      (76.4, 52.0)       190°     NO    9067L      500.0t     269   
+   3     1      (9.8, 13.9)        9°       NO    0L         337.4t     53    
+   4     1      (62.1, 17.9)       268°     YES   9961L      444.4t     77    
+   5     1      (36.4, 70.1)       322°     YES   12000L     0.0t       364   
+   6     2      (0.9, 14.9)        226°     NO    10735L     141.1t     171   
+   7     2      (81.2, 53.5)       273°     YES   11493L     397.2t     260   
+   8     2      (7.1, 12.9)        0°       NO    4458L      486.0t     128   
+   9     3      (69.5, 75.0)       139°     NO    10767L     456.4t     259   
+   10    3      (43.4, 79.7)       51°      NO    11711L     0.0t       90    
+   11    3      (10.1, 14.4)       29°      NO    0L         426.9t     9     
+   12    4      (99.9, 66.3)       292°     YES   11321L     125.5t     27    
+   13    4      (10.1, 14.4)       242°     NO    0L         345.0t     13    
+   14    4      (77.3, 93.6)       106°     YES   11428L     149.5t     86    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 3
+   Boats at Port: 1
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.6°C
+   Min/Max Temp: 7.5°C / 23.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 151214.9t total (397 trips, avg 50404.96t/boat)
+   Model 1: 205886.6t total (494 trips, avg 68628.87t/boat)
+   Model 2: 233834.8t total (559 trips, avg 77944.95t/boat)
+   Model 3: 144217.0t total (358 trips, avg 48072.32t/boat)
+   Model 4: 43575.5t total (126 trips, avg 14525.17t/boat)
+================================================================================
+
+================================================================================
+STEP 7,525 / 🕐 7525 hours (313.5 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2224
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 795937.4t
+   ⛽ Avg Fleet Fuel: 7874L / 12000L
+   📦 Avg Fleet Cargo: 327.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (41.8, 70.0)       330°     YES   11656L     101.7t     85    
+   1     0      (5.9, 0.0)         233°     NO    10902L     51.6t      48    
+   2     0      (87.1, 64.8)       274°     NO    10499L     500.0t     275   
+   3     1      (11.6, 3.7)        9°       NO    0L         337.4t     53    
+   4     1      (55.2, 80.6)       23°      NO    5058L      460.8t     78    
+   5     1      (26.6, 67.9)       34°      NO    10734L     474.8t     374   
+   6     2      (52.5, 25.8)       29°      YES   10365L     382.0t     172   
+   7     2      (71.4, 56.6)       100°     YES   11882L     33.5t      267   
+   8     2      (44.7, 11.2)       16°      NO    2760L      494.7t     129   
+   9     3      (60.8, 76.1)       53°      NO    11342L     452.8t     266   
+   10    3      (39.0, 63.1)       295°     YES   11600L     220.9t     93    
+   11    3      (11.4, 4.1)        29°      NO    0L         426.9t     9     
+   12    4      (99.0, 63.2)       131°     YES   11208L     221.7t     28    
+   13    4      (11.4, 4.1)        242°     NO    0L         345.0t     13    
+   14    4      (40.5, 52.7)       352°     YES   10103L     412.3t     87    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.9°C
+   Min/Max Temp: 7.8°C / 23.4°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 155802.2t total (408 trips, avg 51934.07t/boat)
+   Model 1: 210276.4t total (505 trips, avg 70092.13t/boat)
+   Model 2: 237323.1t total (568 trips, avg 79107.70t/boat)
+   Model 3: 148149.0t total (368 trips, avg 49383.00t/boat)
+   Model 4: 44386.7t total (128 trips, avg 14795.57t/boat)
+================================================================================
+
+================================================================================
+STEP 7,700 / 🕐 7700 hours (320.8 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2206
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 814093.1t
+   ⛽ Avg Fleet Fuel: 7618L / 12000L
+   📦 Avg Fleet Cargo: 228.3t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (36.7, 67.7)       202°     YES   10652L     196.7t     87    
+   1     0      (0.0, 8.3)         136°     NO    5608L      64.9t      48    
+   2     0      (74.7, 49.3)       92°      NO    9124L      500.0t     281   
+   3     1      (19.5, 0.0)        9°       NO    0L         337.4t     53    
+   4     1      (53.1, 85.7)       62°      YES   11787L     67.5t      83    
+   5     1      (32.8, 72.1)       99°      YES   11876L     52.8t      383   
+   6     2      (0.0, 5.1)         217°     YES   7713L      48.1t      174   
+   7     2      (79.9, 48.1)       145°     NO    9749L      491.4t     273   
+   8     2      (46.3, 0.0)        249°     NO    11178L     149.9t     135   
+   9     3      (54.7, 86.5)       173°     YES   11879L     0.0t       274   
+   10    3      (63.6, 43.8)       359°     YES   11112L     286.7t     97    
+   11    3      (19.1, 0.0)        29°      NO    0L         426.9t     9     
+   12    4      (80.6, 79.0)       258°     NO    1827L      452.9t     28    
+   13    4      (19.1, 0.0)        242°     NO    0L         345.0t     13    
+   14    4      (53.8, 89.4)       31°      YES   11759L     4.0t       89    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.6°C
+   Min/Max Temp: 5.2°C / 23.8°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 158762.2t total (416 trips, avg 52920.73t/boat)
+   Model 1: 215170.1t total (519 trips, avg 71723.36t/boat)
+   Model 2: 242544.1t total (582 trips, avg 80848.03t/boat)
+   Model 3: 152303.7t total (380 trips, avg 50767.90t/boat)
+   Model 4: 45313.0t total (130 trips, avg 15104.33t/boat)
+================================================================================
+
+================================================================================
+STEP 7,875 / 🕐 7875 hours (328.1 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2186
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 827415.2t
+   ⛽ Avg Fleet Fuel: 7407L / 12000L
+   📦 Avg Fleet Cargo: 331.0t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (47.5, 69.8)       176°     NO    8661L      456.4t     88    
+   1     0      (16.9, 28.1)       323°     YES   10452L     44.2t      49    
+   2     0      (79.8, 51.7)       180°     NO    9819L      500.0t     288   
+   3     1      (26.0, 1.1)        9°       NO    0L         337.4t     53    
+   4     1      (68.6, 84.0)       338°     YES   11836L     43.3t      86    
+   5     1      (37.1, 66.6)       108°     NO    10639L     458.2t     391   
+   6     2      (44.9, 0.0)        313°     NO    11432L     94.0t      175   
+   7     2      (73.5, 47.4)       75°      NO    10977L     500.0t     280   
+   8     2      (30.1, 3.3)        24°      NO    1750L      226.8t     135   
+   9     3      (57.6, 99.9)       176°     YES   11070L     339.9t     280   
+   10    3      (45.1, 51.1)       115°     NO    5606L      460.3t     98    
+   11    3      (25.8, 0.8)        29°      NO    0L         426.9t     9     
+   12    4      (99.9, 56.6)       10°      NO    10686L     339.4t     33    
+   13    4      (25.8, 0.8)        242°     NO    0L         345.0t     13    
+   14    4      (48.7, 81.8)       160°     YES   8177L      393.2t     90    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 4/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.9°C
+   Min/Max Temp: 5.0°C / 23.9°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 161717.8t total (425 trips, avg 53905.93t/boat)
+   Model 1: 218392.2t total (530 trips, avg 72797.41t/boat)
+   Model 2: 245247.3t total (590 trips, avg 81749.11t/boat)
+   Model 3: 155676.2t total (387 trips, avg 51892.06t/boat)
+   Model 4: 46381.7t total (136 trips, avg 15460.56t/boat)
+================================================================================
+
+================================================================================
+STEP 8,050 / 🕐 8050 hours (335.4 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2168
+   🎣 Tonnes Caught This Step: 456.45t
+   📈 Total Catch So Far: 843713.3t
+   ⛽ Avg Fleet Fuel: 8305L / 12000L
+   📦 Avg Fleet Cargo: 225.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (59.9, 77.4)       217°     YES   9673L      395.2t     91    
+   1     0      (10.1, 4.7)        299°     NO    2838L      260.3t     49    
+   2     0      (72.9, 53.7)       127°     YES   11976L     0.0t       298   
+   3     1      (26.9, 6.9)        9°       NO    0L         337.4t     53    
+   4     1      (37.7, 73.3)       244°     YES   11042L     68.7t      87    
+   5     1      (35.7, 59.7)       269°     NO    11825L     144.7t     402   
+   6     2      (9.0, 15.4)        213°     YES   10677L     112.5t     178   
+   7     2      (75.3, 51.7)       261°     YES   12000L     0.0t       286   
+   8     2      (71.4, 23.0)       97°      NO    11207L     454.2t     137   
+   9     3      (61.0, 79.0)       96°      NO    10131L     490.4t     288   
+   10    3      (23.1, 58.9)       140°     YES   11492L     47.6t      101   
+   11    3      (26.9, 6.6)        29°      NO    0L         426.9t     9     
+   12    4      (73.3, 51.7)       360°     NO    12000L     0.0t       35    
+   13    4      (26.9, 6.6)        242°     NO    0L         345.0t     13    
+   14    4      (87.6, 72.2)       346°     YES   9710L      303.9t     92    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 3
+   Boats at Port: 2
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.3°C
+   Min/Max Temp: 4.9°C / 24.3°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 165271.7t total (438 trips, avg 55090.57t/boat)
+   Model 1: 221544.4t total (542 trips, avg 73848.15t/boat)
+   Model 2: 250029.7t total (601 trips, avg 83343.22t/boat)
+   Model 3: 158669.4t total (398 trips, avg 52889.79t/boat)
+   Model 4: 48198.1t total (140 trips, avg 16066.02t/boat)
+================================================================================
+
+================================================================================
+STEP 8,225 / 🕐 8225 hours (342.7 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2115
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 856292.2t
+   ⛽ Avg Fleet Fuel: 8361L / 12000L
+   📦 Avg Fleet Cargo: 205.8t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (14.3, 60.5)       171°     YES   11290L     119.6t     95    
+   1     0      (8.3, 0.0)         227°     NO    8284L      6.3t       50    
+   2     0      (75.1, 58.1)       200°     YES   11548L     361.8t     302   
+   3     1      (22.8, 8.1)        9°       NO    0L         337.4t     53    
+   4     1      (50.4, 75.5)       242°     YES   11808L     44.7t      90    
+   5     1      (34.4, 61.6)       273°     NO    11768L     71.8t      410   
+   6     2      (41.4, 4.0)        225°     NO    11008L     149.4t     179   
+   7     2      (76.1, 58.9)       39°      YES   11147L     178.1t     290   
+   8     2      (8.3, 9.8)         185°     NO    6447L      84.3t      138   
+   9     3      (57.5, 83.2)       354°     NO    9267L      473.9t     293   
+   10    3      (4.0, 77.4)        106°     YES   10665L     151.6t     102   
+   11    3      (23.2, 8.1)        29°      NO    0L         426.9t     9     
+   12    4      (82.7, 30.6)       128°     YES   10200L     317.8t     36    
+   13    4      (23.2, 8.1)        242°     NO    0L         345.0t     13    
+   14    4      (62.0, 84.0)       26°      YES   11978L     18.1t      95    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 7/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.4°C
+   Min/Max Temp: 5.4°C / 23.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 168194.0t total (447 trips, avg 56064.68t/boat)
+   Model 1: 224567.9t total (553 trips, avg 74855.96t/boat)
+   Model 2: 252742.8t total (607 trips, avg 84247.59t/boat)
+   Model 3: 161175.8t total (404 trips, avg 53725.27t/boat)
+   Model 4: 49611.6t total (144 trips, avg 16537.21t/boat)
+================================================================================
+
+================================================================================
+STEP 8,400 / 🕐 8400 hours (350.0 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2110
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 868348.7t
+   ⛽ Avg Fleet Fuel: 7147L / 12000L
+   📦 Avg Fleet Cargo: 278.5t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (17.5, 86.4)       177°     YES   10912L     204.0t     96    
+   1     0      (9.5, 0.0)         285°     NO    3537L      6.3t       50    
+   2     0      (73.7, 48.4)       341°     YES   10534L     279.5t     306   
+   3     1      (20.6, 3.9)        9°       NO    0L         337.4t     53    
+   4     1      (50.2, 54.4)       70°      NO    5918L      464.9t     91    
+   5     1      (41.6, 65.4)       307°     YES   11779L     135.4t     417   
+   6     2      (10.0, 8.6)        236°     NO    11044L     0.0t       180   
+   7     2      (71.1, 54.2)       325°     NO    10386L     462.4t     295   
+   8     2      (62.4, 14.5)       76°      YES   10170L     458.5t     139   
+   9     3      (67.5, 83.3)       325°     YES   11765L     35.5t      300   
+   10    3      (0.0, 99.9)        141°     NO    3326L      256.1t     102   
+   11    3      (20.6, 4.1)        29°      NO    0L         426.9t     9     
+   12    4      (91.0, 32.6)       129°     YES   10362L     306.1t     38    
+   13    4      (20.6, 4.1)        242°     NO    0L         345.0t     13    
+   14    4      (62.3, 48.0)       93°      NO    7476L      458.7t     96    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 6/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 13.5°C
+   Min/Max Temp: 4.9°C / 24.9°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 170317.5t total (452 trips, avg 56772.50t/boat)
+   Model 1: 227560.7t total (561 trips, avg 75853.55t/boat)
+   Model 2: 255298.1t total (614 trips, avg 85099.36t/boat)
+   Model 3: 164169.8t total (411 trips, avg 54723.27t/boat)
+   Model 4: 51002.6t total (147 trips, avg 17000.88t/boat)
+================================================================================
+
+================================================================================
+STEP 8,575 / 🕐 8575 hours (357.3 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2088
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 880671.9t
+   ⛽ Avg Fleet Fuel: 7003L / 12000L
+   📦 Avg Fleet Cargo: 292.4t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (8.3, 95.7)        318°     NO    2337L      326.2t     96    
+   1     0      (60.8, 9.9)        91°      YES   8863L      446.1t     51    
+   2     0      (67.8, 44.4)       293°     YES   11712L     94.1t      311   
+   3     1      (23.9, 0.0)        9°       NO    0L         337.4t     53    
+   4     1      (40.4, 53.1)       56°      NO    8607L      458.7t     93    
+   5     1      (6.0, 80.5)        173°     YES   8183L      457.4t     421   
+   6     2      (8.3, 0.0)         285°     YES   4566L      0.0t       180   
+   7     2      (70.6, 42.8)       307°     YES   11391L     27.6t      300   
+   8     2      (55.8, 5.1)        63°      YES   11699L     48.3t      147   
+   9     3      (48.8, 58.0)       245°     NO    11256L     401.6t     304   
+   10    3      (63.3, 17.7)       11°      YES   8492L      386.0t     103   
+   11    3      (23.9, 0.1)        29°      NO    0L         426.9t     9     
+   12    4      (58.8, 32.2)       275°     YES   11148L     248.6t     41    
+   13    4      (23.9, 0.1)        242°     NO    0L         345.0t     13    
+   14    4      (69.8, 93.6)       274°     YES   6795L      381.8t     97    
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 9/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 12.5°C
+   Min/Max Temp: 4.6°C / 24.2°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 172669.0t total (458 trips, avg 57556.32t/boat)
+   Model 1: 229976.8t total (567 trips, avg 76658.93t/boat)
+   Model 2: 259141.9t total (627 trips, avg 86380.64t/boat)
+   Model 3: 166425.9t total (416 trips, avg 55475.31t/boat)
+   Model 4: 52458.3t total (151 trips, avg 17486.10t/boat)
+================================================================================
+
+================================================================================
+STEP 8,750 / 🕐 8750 hours (364.6 days)
+================================================================================
+
+📊 FLEET OVERVIEW:
+   🐟 Fish Schools: 2093
+   🎣 Tonnes Caught This Step: 0.00t
+   📈 Total Catch So Far: 896042.0t
+   ⛽ Avg Fleet Fuel: 8274L / 12000L
+   📦 Avg Fleet Cargo: 200.7t / 500t
+
+🚢 BOAT-BY-BOAT STATUS:
+   Boat  Model  Pos                Heading  Net   Fuel       Cargo      Trips 
+   ------------------------------------------------------------------------------------------
+   0     0      (47.3, 46.7)       116°     NO    6044L      451.0t     97    
+   1     0      (64.8, 4.9)        331°     YES   8958L      122.3t     52    
+   2     0      (75.3, 50.4)       283°     YES   11971L     43.0t      317   
+   3     1      (27.0, 0.0)        9°       NO    0L         337.4t     53    
+   4     1      (86.8, 86.8)       23°      YES   10491L     135.1t     96    
+   5     1      (28.2, 68.2)       177°     YES   11866L     56.1t      427   
+   6     2      (24.6, 12.6)       336°     YES   9491L      53.4t      180   
+   7     2      (84.1, 47.0)       99°      YES   11238L     256.4t     304   
+   8     2      (57.4, 13.3)       310°     YES   11921L     0.0t       152   
+   9     3      (51.7, 81.3)       136°     YES   11825L     82.4t      312   
+   10    3      (21.3, 66.5)       157°     YES   7740L      390.9t     104   
+   11    3      (27.0, 0.0)        29°      NO    0L         426.9t     9     
+   12    4      (82.6, 52.1)       54°      YES   11791L     37.2t      43    
+   13    4      (27.0, 0.0)        242°     NO    0L         345.0t     13    
+   14    4      (27.9, 57.5)       115°     YES   10776L     272.8t     101   
+
+🎣 FISHING STATUS:
+   Nets Currently Deployed: 11/15
+   Boats Out of Fuel: 3
+   Boats at Port: 0
+
+🌡️  ENVIRONMENT:
+   Avg Water Temp at Boats: 14.2°C
+   Min/Max Temp: 4.6°C / 24.6°C
+   Optimal Fish Temp Zone: 14-22°C
+
+📊 CATCHES BY MODEL:
+   Model 0: 175858.2t total (466 trips, avg 58619.41t/boat)
+   Model 1: 233302.1t total (576 trips, avg 77767.36t/boat)
+   Model 2: 263102.7t total (636 trips, avg 87700.88t/boat)
+   Model 3: 169447.5t total (425 trips, avg 56482.50t/boat)
+   Model 4: 54331.5t total (157 trips, avg 18110.51t/boat)
+================================================================================
+
+======================================================================
+DEPLOYMENT SUMMARY
+======================================================================
+
+🤖 MODEL 0 (3 instances deployed):
+   Total Reward: +493382.48
+   Total Catch: 175858.2 tons
+   Port Returns: 466
+   Avg per Boat: 58619.41 tons, 155.3 trips
+
+🤖 MODEL 1 (3 instances deployed):
+   Total Reward: +666266.11
+   Total Catch: 233302.1 tons
+   Port Returns: 576
+   Avg per Boat: 77767.36 tons, 192.0 trips
+
+🤖 MODEL 2 (3 instances deployed):
+   Total Reward: +762119.46
+   Total Catch: 263102.7 tons
+   Port Returns: 636
+   Avg per Boat: 87700.88 tons, 212.0 trips
+
+🤖 MODEL 3 (3 instances deployed):
+   Total Reward: +478754.10
+   Total Catch: 169595.4 tons
+   Port Returns: 426
+   Avg per Boat: 56531.79 tons, 142.0 trips
+
+🤖 MODEL 4 (3 instances deployed):
+   Total Reward: +140925.82
+   Total Catch: 54331.5 tons
+   Port Returns: 157
+   Avg per Boat: 18110.51 tons, 52.3 trips
+
+======================================================================
+OVERALL FLEET PERFORMANCE:
+======================================================================
+🚢 Total Boats: 15
+🐟 Total Catch: 896189.9 tons
+💰 Total Trips: 2261
+🎯 Average per Boat: 59745.99 tons
+⚡ Avg Reward: +169429.87
+🐠 Fish Remaining: 2093 schools
+
+======================================================================
+FISH POPULATION DIAGNOSIS
+======================================================================
+Total Fish Caught (biomass): 896189.9 tons
+Final Fish Schools: 2093
+
+⚠️  WHY FISH MAY NOT BE DEPLETING:
+   1. Reproduction Rate: Fish reproduce faster than you catch them
+      → Check if catch_rates in fleet_physics.py are too low
+      → Or reduce reproduction_threshold in fish_ecosystem.py
+
+   2. Fish Detection: Boats may not be sensing fish correctly
+      → Check vision_range in fishing_agent.py (currently 12.0)
+
+   3. Catch Radius: Too small to catch nearby fish
+      → Check catch_radii in fleet_physics.py (currently [2.0, 3.5])
+
+   4. Net Deployment: Agents may not be deploying nets enough
+      → Check if agents have learned to deploy networks (ε = 0.05)
+======================================================================
+
